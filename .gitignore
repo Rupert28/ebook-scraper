@@ -2,9 +2,7 @@
 node_modules/
 
 # Build outputs 
-dist/js/
-dist/manifest.json
-dist/*.js
+dist/
 
 # Backup folder
 dist_backup/
